@@ -1,3 +1,5 @@
+package July11;
+
 import java.util.Scanner;
 
 public class ControlStatementAssignment2 {
