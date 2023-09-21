@@ -19,5 +19,6 @@ public class ConsumerFunctionalInterface {
         Predicate<Integer> predicate = (i)-> i%2==0;
         System.out.println(predicate.test(2));
 
+
     }
 }
